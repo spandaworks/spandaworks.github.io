@@ -3,7 +3,7 @@ layout: post
 ref: transition
 title:  "Transition"
 keywords: "transition,life"
-date: 2015-10-30
+date: 2016-10-30
 tags: [blog,life,transition]
 lang: eng
 icon: fa-bookmark-o
