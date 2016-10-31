@@ -5,7 +5,7 @@ title: "SpandaWorks"
 description: "SpandaWorks: Life, Consciousness, Energy, Tantra, Yoga, Dance, Travel, Life."
 keywords: "Life,Consciousness,Energy,Tantra,Yoga,Dance,Travel,Life."
 baseurl: "/"
-url: "http://spandaworks.github.io"
+url: "http://spandaworks.com"
 # url: "http://127.0.0.1:4000"
 
 # author
@@ -48,7 +48,7 @@ languages:
     text: 'РУС'
 
 # blog img path
-img_path: 'http://spandaworks.github.io/static/img/blog'
+img_path: 'http://spandaworks.com/static/img/blog'
 # img_path: 'http://localhost:4000/static/img/blog'
 
 # Build settings
