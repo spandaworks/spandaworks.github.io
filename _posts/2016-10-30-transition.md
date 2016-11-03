@@ -6,6 +6,7 @@ keywords: "transition,life"
 date: 2016-10-30
 tags: [blog,life,transition]
 lang: eng
+comments: true
 icon: fa-bookmark-o
 ---
 
