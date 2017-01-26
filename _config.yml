@@ -48,8 +48,8 @@ languages:
     text: 'РУС'
 
 # blog img path
-# img_path: 'http://spandaworks.com/static/img/blog'
-img_path: 'http://localhost:4000/static/img/blog'
+img_path: 'http://spandaworks.com/static/img/blog'
+# img_path: 'http://localhost:4000/static/img/blog'
 
 # Build settings
 encoding: "utf-8"
