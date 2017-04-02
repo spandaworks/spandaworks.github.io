@@ -3,7 +3,7 @@ layout: post
 ref: finding-god-in-life
 title:  "Finding God in Life"
 keywords: "life,yoga,tantra"
-date: 2017-01-12
+date: 2017-03-30
 tags: [blog,life,tantra,yoga]
 lang: eng
 comments: true
